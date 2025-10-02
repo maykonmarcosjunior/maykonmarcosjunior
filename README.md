@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Computer Science student at UFSC, with experience in developing AI/ML and using LLM APIs.
+- 🔭 Built a R$ 1672,10 error range predictive model for moral compensation and a 90% accurate (and a 0.43 F1-score) LLM-based legal factor extractor.
+- 🔭 Hands-on with low and high-level programming languages, Scikit-learn, and OpenAI APIs; comfortable with data pipelines and test-driven development.
+- 🔭 Published co-author with media exposure for Concil-IA.
